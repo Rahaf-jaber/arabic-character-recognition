@@ -18,7 +18,7 @@ It includes full preprocessing, model design, training, and evaluation pipeline.
 ```
 arabic-character-recognition/
 │
-├── arabic_character_recognizer_clean.py # Main training & evaluation script
+├── arabic_character_recognizer.py # Main training & evaluation script
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
 
