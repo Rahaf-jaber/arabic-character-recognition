@@ -10,7 +10,7 @@ It includes full preprocessing, model design, training, and evaluation pipeline.
 - Applied preprocessing steps: image rotation, flipping, normalization.  
 - Built a deep CNN with multiple convolutional, pooling, batch normalization, and dropout layers.  
 - Trained with **ModelCheckpoint** to save the best-performing weights.  
-- Achieved **[96.3% accuracy]** on the test dataset *(placeholder — update once results are finalized)*.  
+- Achieved **96.3% accuracy** on the test dataset.  
 
 ---
 
@@ -21,6 +21,9 @@ arabic-character-recognition/
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
 
+yaml
+
+
 
 ---
 
@@ -29,27 +32,25 @@ arabic-character-recognition/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Rahaf-jaber/arabic-character-recognition.git
-cd arabic-character-recognition```
+cd arabic-character-recognition
+2. Install dependencies
+bash
 
-### 2. Install dependencies
 
 pip install -r requirements.txt
+3. Run the script
+bash
 
-### 3. Run the script
 
 python arabic_character_recognizer_clean.py
-
----
 ## Results
+Training Accuracy: 96.8%
 
-Training Accuracy: [96.8%]
+Validation Accuracy: 95.6%
 
-Validation Accuracy: [95.6%]
+Test Accuracy: 96.3%
 
-Test Accuracy: [96.3%]
-
-## Technologies
-
+Technologies
 Python
 
 TensorFlow / Keras
@@ -62,4 +63,6 @@ Matplotlib
 
 Scikit-learn
 
-
+yaml
+نسخ
+تحرير
