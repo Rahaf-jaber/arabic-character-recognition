@@ -5,7 +5,7 @@ It includes full preprocessing, model design, training, and evaluation pipeline.
 
 ---
 
-## ✨ Project Description
+## Project Description
 - Developed a CNN-based model for **Arabic handwritten character recognition**.  
 - Applied preprocessing steps: image rotation, flipping, normalization.  
 - Built a deep CNN with multiple convolutional, pooling, batch normalization, and dropout layers.  
@@ -14,7 +14,7 @@ It includes full preprocessing, model design, training, and evaluation pipeline.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 arabic-character-recognition/
 │
 ├── arabic_character_recognizer_clean.py # Main training & evaluation script
@@ -24,7 +24,7 @@ arabic-character-recognition/
 
 ---
 
-## ⚡ Installation & Usage
+## Installation & Usage
 
 ### 1. Clone the repository
 ```bash
