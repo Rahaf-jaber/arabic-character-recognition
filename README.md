@@ -32,17 +32,16 @@ yaml
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Rahaf-jaber/arabic-character-recognition.git
-cd arabic-character-recognition
-2. Install dependencies
-bash
+cd arabic-character-recognition ```
 
-
+### 2. Install dependencies
+```bash
 pip install -r requirements.txt
-3. Run the script
-bash
 
-
+###3. Run the script
+```bash
 python arabic_character_recognizer_clean.py
+
 ## Results
 Training Accuracy: 96.8%
 
@@ -64,5 +63,5 @@ Matplotlib
 Scikit-learn
 
 yaml
-نسخ
-تحرير
+
+
