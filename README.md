@@ -43,23 +43,17 @@ pip install -r requirements.txt
 python arabic_character_recognizer_clean.py
 ```
 ## Results
-Training Accuracy: 96.8%
+- Training Accuracy: 96.8%
+- Validation Accuracy: 95.6%
+- Test Accuracy: 96.3%
 
-Validation Accuracy: 95.6%
+## Technologies:
 
-Test Accuracy: 96.3%
-
-Technologies
-Python
-
-TensorFlow / Keras
-
-NumPy, Pandas
-
-OpenCV
-
-Matplotlib
-
-Scikit-learn
+- Python
+- TensorFlow / Keras
+- NumPy, Pandas
+- OpenCV
+- Matplotlib
+- Scikit-learn
 
 
