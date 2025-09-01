@@ -29,7 +29,7 @@ arabic-character-recognition/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Rahaf-jaber/arabic-character-recognition.git
-cd arabic-character-recognition
+cd arabic-character-recognition```
 
 ### 2. Install dependencies
 
